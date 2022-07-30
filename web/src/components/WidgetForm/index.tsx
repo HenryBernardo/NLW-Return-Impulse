@@ -3,7 +3,7 @@ import { useState } from "react";
 import { CloseButton } from "../CloseButton";
 
 import bugImageUrl from '../../assets/bug.png';
-import ideaImageUrl from '../../assets/idea.png';
+import ideaImageUrl from '../../assets/Idea.png';
 import thoughtImageUrl from '../../assets/thought.png';
 import { FeedbackSuccessTypeStep } from "./Steps/FeedbackTypeStep";
 import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
